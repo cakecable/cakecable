@@ -7,7 +7,7 @@ github.com/cakecable
 ```
 
 ```php
-discord   $   @apologizin
+discord  $  @apologizin
 server  $  discord.gg/stupid
 ```
 
