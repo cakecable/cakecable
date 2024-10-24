@@ -23,7 +23,7 @@ server  $  discord.gg/stupid
 <img alt="Java" src="https://img.shields.io/badge/-java-black?style=for-the-badge&logo=java" />
 <img alt="Python" src="https://img.shields.io/badge/-python-black?style=for-the-badge&logo=python" /><br>
 <img alt="C++" src="https://img.shields.io/badge/-c++-black?style=for-the-badge&logo=cplusplus" />
-<img alt="LuaU" src="https://img.shields.io/badge/-luau-black?style=for-the-badge&logo=luau" />
+<img alt="LuaU" src="https://img.shields.io/badge/-lua-black?style=for-the-badge&logo=lua" />
 
 </p>
 
