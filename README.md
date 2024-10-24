@@ -13,3 +13,26 @@ server  $  discord.gg/stupid
 
 ## 
 &zwnj;
+
+> Hello! I'm **@cakecable** but I go by cake or cakes. I love to program and I wish to expand my capabilities of it and share it on this website! If you'd like to contact me fast use my discord above.
+
+## 
+
+### Languages
+<p align="left">
+<img alt="Java" src="https://img.shields.io/badge/-java-black?style=for-the-badge&logo=java" />
+<img alt="Python" src="https://img.shields.io/badge/-python-black?style=for-the-badge&logo=python" /><br>
+<img alt="C++" src="https://img.shields.io/badge/-c++-black?style=for-the-badge&logo=cplusplus" />
+<img alt="LuaU" src="https://img.shields.io/badge/-luau-black?style=for-the-badge&logo=luau" />
+
+</p>
+
+### Tools
+<p align="left"> <a href="https://github.com/cakecable"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,godot,github"> </a> </p>
+
+
+### Goals
+
+1. 🔭 Learn HTML
+2. 💻 Work on my discord bot/ website
+3. 🌱 Expand my expertise for Roblox Development
