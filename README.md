@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=FFFFFF&width=435&lines=CAKES+PERSONAL+BIO;GAME+DEVELOPER;SOFTWARE+DEVELOPER)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=FFFFFF&width=435&lines=CAKES+PERSONAL+BIO;GAME+DEVELOPER;SOFTWARE+DEVELOPER;IT+STUDENT)](https://git.io/typing-svg)
 
 <img align="left" src="https://github.com/cakecable/cakecable/blob/main/images/waving-hand-sign-emoji-2048x1980-s2qlps2b.png" width="147" alt="Wave Image" /> 
 
@@ -35,5 +35,5 @@ server  $  discord.gg/stupid
 ### Goals
 
 1. 🔭 Learn HTML
-2. 💻 Work on my discord bot/ website
+2. 💻 Work on my Discord Bot/ Website
 3. 🌱 Expand my expertise for Roblox Development
