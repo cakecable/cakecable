@@ -14,7 +14,7 @@ server  $  discord.gg/stupid
 ## 
 &zwnj;
 
-> Hello! I'm **@cakecable** but I go by cake or cakes. I love to program and I wish to expand my capabilities of it and share it on this website! If you'd like to contact me fast use my discord above.
+> Hello! I'm **@cakecable** but I go by cake or cakes. I'm a 17 year old high school student and I love to program and I wish to expand my capabilities and share it on this website! If you'd like to contact me fast use my discord above.
 
 ## 
 
