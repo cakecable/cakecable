@@ -8,7 +8,6 @@ github.com/cakecable
 
 ```php
 discord  $  @apologizin
-server  $  discord.gg/stupid
 ```
 
 ## 
