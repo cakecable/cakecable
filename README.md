@@ -32,9 +32,9 @@ discord  $  @apologizin
 
 ### Github Stats
 <div style="display: flex; justify-content: center;">
-    <img alt="Cakes's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cakecable&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=313335&title_color=ffffff&icon_color=F8D866" height="211.5px"/>
-    <img alt="Cakes's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=cakecable&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=313335&title_color=ffffff&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="211.5px"/>
-<img alt="Cakes's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=cakecable&bg_color=313335&color=ffffff&line=019a61&point=FFFFFF&hide_border=true" style="border-radius: 6px;" />
+    <img alt="Cakes's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cakecable&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=313335&title_color=ffffff&icon_color=F8D866" height="175px"/>
+    <img alt="Cakes's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=cakecable&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=313335&title_color=ffffff&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="175px"/>
+<img alt="Cakes's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=cakecable&bg_color=313335&color=ffffff&line=019a61&point=FFFFFF&hide_border=true" />
 </div>
 
 </div>
