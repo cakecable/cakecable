@@ -30,9 +30,17 @@ discord  $  @apologizin
 ### Tools
 <p align="left"> <a href="https://github.com/cakecable"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,godot,github"> </a> </p>
 
+### Github Stats
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cakecable&bg_color=000000&color=ffffff&line=ffffff&point=99a0f4&area=true&hide_border=true" height="240" alt="activity-graph"  />
+</div>
 
 ### Goals
 
 1. 🔭 Learn HTML
 2. 💻 Work on my Discord Bot/ Website
 3. 🌱 Expand my expertise for Roblox Development
+
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
