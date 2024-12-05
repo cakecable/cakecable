@@ -37,8 +37,6 @@ discord  $  @apologizin
 <img alt="Cakes's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=cakecable&bg_color=313335&color=ffffff&line=019a61&point=FFFFFF&hide_border=true" />
 </div>
 
-</div>
-
 ### Goals
 
 1. 🔭 Learn HTML
