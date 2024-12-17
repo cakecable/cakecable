@@ -39,7 +39,7 @@ discord  $  @apologizin
 
 ### Goals
 
-1. 🔭 Learn HTML
+1. 🔭 Learn JavaScript
 2. 💻 Work on my Discord Bot/ Website
 3. 🌱 Expand my expertise for Roblox Development
 
