@@ -26,23 +26,3 @@ discord  $  @apologizin
 <img alt="LuaU" src="https://img.shields.io/badge/-LuaU-black?style=for-the-badge&logo=lua" />
 
 </p>
-
-### Tools
-<p align="left"> <a href="https://github.com/cakecable"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,godot,github"> </a> </p>
-
-### Github Stats
-<div style="display: flex; justify-content: center;">
-    <img alt="Cakes's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cakecable&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=313335&title_color=ffffff&icon_color=F8D866" height="175px"/>
-    <img alt="Cakes's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=cakecable&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=313335&title_color=ffffff&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="175px"/>
-<img alt="Cakes's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=cakecable&bg_color=313335&color=ffffff&line=019a61&point=FFFFFF&hide_border=true" />
-</div>
-
-### Goals
-
-1. 🔭 Learn JavaScript
-2. 💻 Work on my Discord Bot/ Website
-3. 🌱 Expand my expertise for Roblox Development
-
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
