@@ -20,7 +20,7 @@ discord  $  @apologizin
 ### Languages
 <p align="left">
 <img alt="Java" src="https://img.shields.io/badge/-java-black?style=for-the-badge&logo=java" />
-<img alt="Godot" src="https://img.shields.io/badge/-gdscript-black?style=for-the-badge&logo=gdscript" /><br>
+<img alt="HTML" src="https://img.shields.io/badge/-gdscript-black?style=for-the-badge&logo=html" /><br>
 <img alt="Python" src="https://img.shields.io/badge/-python-black?style=for-the-badge&logo=python" />
 <img alt="C++" src="https://img.shields.io/badge/-c++-black?style=for-the-badge&logo=cplusplus" /><br>
 <img alt="LuaU" src="https://img.shields.io/badge/-LuaU-black?style=for-the-badge&logo=lua" />
